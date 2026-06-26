@@ -42,7 +42,7 @@ export default function ResumeModal({ onClose }) {
             </span>
           </div>
           <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-            <a href="/Uday_Resume_Updated.pdf" download="Uday_Sri_Sai_Resume.pdf"
+            <a href="/Uday_Resume.pdf" download="Uday_Sri_Sai_Resume.pdf"
               style={{
                 display: "inline-flex", alignItems: "center", gap: 6,
                 padding: "7px 16px", background: "#00D4AA", color: "#000",
