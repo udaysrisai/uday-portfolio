@@ -1,4 +1,4 @@
-# Uday Sri Sai — Portfolio v3 (Glassmorphism Edition)
+# Uday Sri Sai — Portfolio 
 
 Dark glassmorphism design matching the reference mockups — teal/cyan accent, photo hero, skill progress bars with icons, project cards with screenshot previews, Resume modal with Download button.
 
